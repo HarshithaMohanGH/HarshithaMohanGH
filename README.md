@@ -18,7 +18,7 @@
 
 - 😄 &ensp;Pronouns:  she/her
 
-- 📫 &ensp;How to reach me: [**Twitter**][twitter] or [**Email**][email]
+- 📫 &ensp;How to reach me:[**Email**][email]
 
 ## On-going Projects:
 
@@ -44,7 +44,7 @@
 ## Connect with me:
 
 
-[<img align="left" alt="Harshitha Mohan | Twitter" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Ftwitter.png?alt=media" />][twitter]
+
 [<img align="left" alt="Harshitha Mohan | LinkedIn" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Flinkedin.png?alt=media" />][linkedin]
 
 
